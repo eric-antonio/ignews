@@ -16,6 +16,7 @@ export default class MyDocument extends Document {
             as="style"
             href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap"
           />
+          <link rel="shortcut icon" href="favicon.ico" type="image/png" />
         </Head>
         <body>
           <Main />
