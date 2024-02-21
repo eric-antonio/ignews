@@ -31,7 +31,7 @@
       &:hover {
         filter: brightness(0.6);
       }
-      &.active{
+      &.active {
         color: var(--white);
         font-weight: bold;
       }
@@ -46,5 +46,9 @@
         background: var(--yellow-500);
       }
     }
+  }
+  nav,
+  button {
+    margin-left: auto;
   }
 }
